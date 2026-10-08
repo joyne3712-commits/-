@@ -1,0 +1,6 @@
+{
+  "name": "Lesson AI",
+  "description": "AI-powered English lesson planning and teaching web application for private tutors",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
